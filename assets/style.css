@@ -2,3 +2,8 @@
     background-color: black;
     color: lightblue;
 }
+button{
+    background-color:cadetblue;
+    color: black;
+    border-radius: 10px;
+}
